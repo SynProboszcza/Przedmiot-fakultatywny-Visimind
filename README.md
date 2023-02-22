@@ -1,2 +1,2 @@
-# Przedmiot-fakultatywny-Visimind<br>
+# Przedmiot fakultatywny Visimind<br>
 Dawid Sójka 162358
