@@ -9,4 +9,4 @@ Dawid Sójka 162358, współpracownicy: <br>
 [Lab 5](Ocena%20ryzyka.pdf)<br>
 [Lab 6](Lab6.pdf)<br>
 [Lab 7 - DoD](DoD.pdf), [Lab 7 - Kryteria akceptacji](Kryteria%20akceptacji.pdf)<br>
-[Lab 8](Rejestr%20-%20Arkusz1.pdf)<br>
+[Lab 8](Plan%20komunikacji.pdf)<br>
