@@ -2,7 +2,7 @@
 Dawid Sójka 162358, współpracownicy: <br>
 [Mariusz Raś](https://github.com/Mariusz112/145798_przedmiot_fakultatywny/ "Github Mariusza")<br>
 [Filip Klimek](https://github.com/Hackier3/przedmiotFakultatywny "Github Filipa")<br>
-# <br>
+#  <br>
 [Lab 1](lab1.pdf)<br>
 [Lab 2](lab2.pdf)<br>
 [Lab 3](https://docs.google.com/spreadsheets/d/15alyF-6gdcwQtW142qJPzU5LjSAgzVUQPYdsdYkGSFU/edit?pli=1#gid=0 "Arkusz Google z wykresami")<br>
