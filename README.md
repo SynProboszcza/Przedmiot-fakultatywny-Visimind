@@ -1,7 +1,7 @@
 # Przedmiot fakultatywny Visimind<br>
 Dawid Sójka 162358, współpracownicy: <br>
 [Mariusz Raś](https://github.com/Mariusz112/145798_przedmiot_fakultatywny/ "Github Mariusza")<br>
-[Filip Klimek](https://github.com/Hackier3/przedmiotFakultatywny "Github Filipa")<br>
+[Filip Klimek](https://github.com/Hackier3/przedmiotFakultatywny "Github Filipa")
 #  
 [Lab 1](lab1.pdf)<br>
 [Lab 2](lab2.pdf)<br>
