@@ -11,3 +11,6 @@ Dawid Sójka 162358, współpracownicy: <br>
 [Lab 6](Lab6.pdf)<br>
 [Lab 7 - DoD](DoD.pdf), [Lab 7 - Kryteria akceptacji](Kryteria%20akceptacji.pdf)<br>
 [Lab 8](Plan%20komunikacji.pdf)<br>
+[Lab 9](Lab9.pdf)<br>
+[Lab 10](Analiza%20SWOT.pdf)<br>
+
