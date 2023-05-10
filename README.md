@@ -13,4 +13,5 @@ Dawid Sójka 162358, współpracownicy: <br>
 [Lab 8](Plan%20komunikacji.pdf)<br>
 [Lab 9](Lab9.pdf)<br>
 [Lab 10](Analiza%20SWOT.pdf)<br>
+[Lab 11](Fakultet%2011.pdf)<br>
 
